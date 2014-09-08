@@ -1,0 +1,8 @@
+Music by S.S.H (http://www.ssh.ne.jp)
+
+highscore.mp3 from Konami (TMNT)
+
+Sounds ripped from Jake Kaufman's silly NEXTGEN AAA smb video.
+  https://www.youtube.com/watch?v=u9wp6cz0A1o
+
+except for the smb_* sounds, which are the original Nintendo sound effects.

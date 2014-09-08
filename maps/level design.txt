@@ -1,0 +1,7 @@
+Goals: 
+
+  Completable in under one minute.
+  May be speed-ran without stopping while getting
+   all coins and killing all enemies.
+  Section in the middle where the user can take a 
+   short break (an open area).
